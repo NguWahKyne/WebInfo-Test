@@ -2,7 +2,7 @@
 react+vite + tailwing language used in the test , some of the documentation can read 
 # Getting Started with Create React App
 
-This project with [Create React App](https://github.com/facebook/create-react-app).
+This project with 
 
 ## Available Scripts
 
